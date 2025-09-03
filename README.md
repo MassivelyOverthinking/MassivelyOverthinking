@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{MassivelyOverthinking}/count.svg" alt="Visitor's Count" />
-</div>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,java,maven,rust,aws,docker,ai,sklearn,pytorch,tensorflow,python,py" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,mysql,mongodb,nuxjs,ssqlite" />
+</p>
+
+<hr>
